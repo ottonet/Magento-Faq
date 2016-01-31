@@ -1,0 +1,13 @@
+{
+    "name": "flagbit/magento-faq",
+    "description": "FAQ module for Magento.",
+    "type": "magento-module",
+    "homepage": "http://www.magentocommerce.com/magento-connect/Flagbit+GmbH+%26+Co.+KG/extension/3849/flagbit_faq",
+    "authors": [
+        {
+            "name": "Flagbit",
+            "email": "info@flagbit.de"
+        }
+    ],
+    "require": {}
+}
